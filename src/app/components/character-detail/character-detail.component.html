@@ -1,0 +1,22 @@
+<!--
+<h2 class="centrado">Detalles</h2>
+-->
+
+
+<div class="centrado" *ngIf="character">
+  <p><img width="150px" src="{{character.image}}" /></p>
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        {{ character.name }}
+      </mat-panel-title>
+    </mat-expansion-panel-header>
+    
+      <p><strong>Id:</strong> {{ character.id }}</p>
+      <p><strong>Genero:</strong> {{ character.gender }}</p>
+      <p><strong>Especie:</strong> {{ character.species }}</p>
+      <p><strong>Estado:</strong> {{ character.status }}</p>
+  </mat-expansion-panel>
+
+  <button class="boton" mat-button routerLink="/">Volver al listado</button>
+</div>
