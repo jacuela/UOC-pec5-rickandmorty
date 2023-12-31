@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704013931079,
+  "timestamp": 1704015443064,
   "index": "/UOC-pec5-rickandmorty/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/UOC-pec5-rickandmorty/favicon.ico",
         "/UOC-pec5-rickandmorty/index.html",
-        "/UOC-pec5-rickandmorty/main.8ce3beff1dffd6e8.js",
+        "/UOC-pec5-rickandmorty/main.0125de4fa144fe81.js",
         "/UOC-pec5-rickandmorty/manifest.webmanifest",
         "/UOC-pec5-rickandmorty/polyfills.f5e2e945b93d0a68.js",
         "/UOC-pec5-rickandmorty/runtime.15ec0f87ada12365.js",
@@ -69,8 +69,8 @@
     "/UOC-pec5-rickandmorty/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/UOC-pec5-rickandmorty/assets/logo.png": "4aedfea15af47bf81036f0dce716b4edb384b081",
     "/UOC-pec5-rickandmorty/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/UOC-pec5-rickandmorty/index.html": "298887408ea57273193a1b4436c48d8c50190eb9",
-    "/UOC-pec5-rickandmorty/main.8ce3beff1dffd6e8.js": "3c072c5dacf87b71e1329c2b4006c0bc3b893799",
+    "/UOC-pec5-rickandmorty/index.html": "7cca5a69f872d46ba6a3362216e6207a1394896a",
+    "/UOC-pec5-rickandmorty/main.0125de4fa144fe81.js": "53cec29b3f8e6d3a4ba311b1c4fe81e8b8b5554d",
     "/UOC-pec5-rickandmorty/manifest.webmanifest": "839d01677b284244fb36be2e92239ab571c298af",
     "/UOC-pec5-rickandmorty/polyfills.f5e2e945b93d0a68.js": "ce480a01a59729d2fddcad507bc36c40ba974758",
     "/UOC-pec5-rickandmorty/runtime.15ec0f87ada12365.js": "58f3c04843c74a698b1650f8705311681a5fe684",
